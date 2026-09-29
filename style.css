@@ -1,0 +1,26 @@
+#card{
+    width: 1000px;
+    height: 2000px;
+    display: flex;
+     flex-wrap: wrap;
+}
+
+.caas{
+    border: 1px solid black;
+    width: 200px;
+    height: 300px;
+    margin: 10px;
+    
+
+}
+
+img{
+    height: 200px;
+}
+
+#stats{
+    background-color: gray;
+    width: 1000px;
+    height: 1000px;
+    z-index: -1;
+}
